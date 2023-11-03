@@ -1,0 +1,1 @@
+# test-gitversion-with-npm-package
